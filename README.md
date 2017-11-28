@@ -1,0 +1,2 @@
+# Dicee
+Roll two dices.
